@@ -1,0 +1,7 @@
+{ 
+   "name": "ParticleNFC", 
+   "author": "Adafruit with Rahat modifications", 
+   "license": "MIT (whichever is stated in README file)", 
+   "version": "0.0.1", 
+   "description": "Adafruit's NFC library modded for Particle Photon" 
+ } 
