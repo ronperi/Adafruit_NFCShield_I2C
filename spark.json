@@ -1,5 +1,5 @@
 { 
-   "name": "ParticleNFC", 
+   "name": "Adafruit_NFCShield_I2C", 
    "author": "Adafruit with Rahat modifications", 
    "license": "MIT (whichever is stated in README file)", 
    "version": "0.0.1", 
